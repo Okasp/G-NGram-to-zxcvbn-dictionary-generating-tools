@@ -7,7 +7,7 @@ fixer1
 
 fixer2
 
-cat {all of the files in a given dictionary set} > <dictionary name>
+cat {all of the files in a given dictionary set} > < dictionary name >
   
 tenthou2
 
